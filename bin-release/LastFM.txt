@@ -1,0 +1,112 @@
+
+Album
+
+    * Album.addTags
+    * Album.getInfo
+    * Album.getTags
+    * Album.removeTag
+    * Album.search
+
+Artist
+
+    * Artist.addTags
+    * Artist.getEvents
+    * Artist.getInfo
+    * Artist.getSimilar
+    * Artist.getTags
+    * Artist.getTopAlbums
+    * Artist.getTopFans
+    * Artist.getTopTags
+    * Artist.getTopTracks
+    * Artist.removeTag
+    * Artist.search
+    * Artist.share
+
+Auth
+
+    * Auth.getMobileSession
+    * Auth.getSession
+    * Auth.getToken
+    * Auth.getWebSession
+
+Event
+
+    * Event.attend
+    * Event.getInfo
+    * Event.share
+
+Geo
+
+    * Geo.getEvents
+    * Geo.getTopArtists
+    * Geo.getTopTracks
+
+Group
+
+    *** Group.getWeeklyAlbumChart
+    *** Group.getWeeklyArtistChart
+    *** Group.getWeeklyChartList
+    *** Group.getWeeklyTrackChart
+
+Library
+
+    * Library.addAlbum
+    * Library.addArtist
+    * Library.addTrack
+    *** Library.getAlbums
+    *** Library.getArtists
+    *** Library.getTracks
+
+Playlist
+
+    * Playlist.addTrack
+    * Playlist.create
+    * Playlist.fetch
+
+Tag
+
+    * Tag.getSimilar
+    * Tag.getTopAlbums
+    * Tag.getTopArtists
+    * Tag.getTopTags
+    * Tag.getTopTracks
+    * Tag.getWeeklyArtistChart
+    * Tag.getWeeklyChartList
+    * Tag.search
+
+Tasteometer
+
+    * Tasteometer.compare
+
+Track
+
+    * Track.addTags
+    * Track.ban
+    * Track.getInfo
+    * Track.getSimilar
+    * Track.getTags
+    * Track.getTopFans
+    * Track.getTopTags
+    * Track.love
+    * Track.removeTag
+    * Track.search
+    * Track.share
+
+User
+
+    * User.getEvents
+    * User.getFriends
+    * User.getInfo
+    * User.getLovedTracks
+    * User.getNeighbours
+    * User.getPastEvents
+    * User.getPlaylists
+    * User.getRecentTracks
+    * User.getTopAlbums
+    * User.getTopArtists
+    * User.getTopTags
+    * User.getTopTracks
+    * User.getWeeklyAlbumChart
+    * User.getWeeklyArtistChart
+    * User.getWeeklyChartList
+    * User.getWeeklyTrackChart

@@ -1,0 +1,116 @@
+Geo
+
+    * Geo.getEvents
+    * Geo.getTopArtists
+    * Geo.getTopTracks
+
+----------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------
+
+Tasteometer
+
+    *** Tasteometer.compare
+    
+Track
+
+    *** Track.addTags /* Fault: can only send 1 tag at a time due to createAPI_Sig function *
+    *** Track.ban /* Fault not currently working */
+    *** Track.getInfo
+    *** Track.getSimilar
+    *** Track.getTags
+    *** Track.getTopFans
+    *** Track.getTopTags
+    *** Track.love
+    *** Track.removeTag
+    *** Track.search
+    *** Track.share
+    
+Tag
+
+    *** Tag.getSimilar
+    *** Tag.getTopAlbums
+    *** Tag.getTopArtists
+    *** Tag.getTopTags
+    *** Tag.getTopTracks
+    *** Tag.getWeeklyArtistChart
+    *** Tag.getWeeklyChartList
+    *** Tag.search
+    
+Playlist
+
+    *** Playlist.addTrack
+    *** Playlist.create
+    *** Playlist.fetch
+    
+Library
+
+    *** Library.addAlbum
+    *** Library.addArtist
+    *** Library.addTrack
+    *** Library.getAlbums
+    *** Library.getArtists
+    *** Library.getTracks
+
+Event
+
+    *** Event.attend
+    *** Event.getInfo
+    *** Event.share  /* Fault: Need a seperate Last.fm account to test input */
+    
+Auth
+
+    * Auth.getMobileSession
+    *** Auth.getSession
+    *** Auth.getToken
+    * Auth.getWebSession
+    
+Artist
+
+    *** Artist.addTags /* Fault: can only send 1 tag at a time due to createAPI_Sig function */
+    *** Artist.getEvents
+    *** Artist.getInfo
+    *** Artist.getSimilar
+    *** Artist.getTags
+    *** Artist.getTopAlbums
+    *** Artist.getTopFans
+    *** Artist.getTopTags
+    *** Artist.getTopTracks
+    *** Artist.removeTag
+    *** Artist.search
+    * Artist.share  /* Fault: Need a seperate Last.fm account to test input */
+
+Album
+
+    *** Album.addTags /* Fault: can only send 1 tag at a time due to createAPI_Sig function */
+    *** Album.getInfo
+    *** Album.getTags
+    *** Album.removeTag
+    *** Album.search
+
+Group
+
+    *** Group.getWeeklyAlbumChart
+    *** Group.getWeeklyArtistChart
+    *** Group.getWeeklyChartList
+    *** Group.getWeeklyTrackChart
+
+User
+
+    *** User.getEvents
+    *** User.getFriends
+    *** User.getInfo
+    *** User.getLovedTracks
+    *** User.getNeighbours
+    *** User.getPastEvents
+    *** User.getPlaylists
+    *** User.getRecentTracks
+    * User.getRecommendedEvents /* Generating an error code 6 (limit must be between 1 and 50) */
+    *** User.getTopAlbums
+    *** User.getTopArtists
+    *** User.getTopTags
+    *** User.getTopTracks
+    *** User.getWeeklyAlbumChart
+    *** User.getWeeklyArtistChart
+    *** User.getWeeklyChartList
+    *** User.getWeeklyTrackChart

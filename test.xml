@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lfm status="ok">
+  <playlist version="1" xmlns="http://xspf.org/ns/0/">
+    <title>Cher - Believe</title>
+    <annotation>Previews for Cher - Believe</annotation>
+    <creator>http://www.last.fm/music/Cher/Believe</creator>
+    <date>2008-11-20T10:48:34</date>
+    <trackList>
+      <track>
+        <title>Believe</title>
+        <identifier>http://www.last.fm/music/Cher/_/Believe</identifier>
+        <album>Believe</album>
+        <creator>Cher</creator>
+        <duration>240000</duration>
+        <info>http://www.last.fm/music/Cher/_/Believe</info>
+        <image>http://userserve-ak.last.fm/serve/126/8674593.jpg</image>
+      </track>
+      <track>
+        <title>The Power</title>
+        <identifier>http://www.last.fm/music/Cher/_/The+Power</identifier>
+        <album>Believe</album>
+        <creator>Cher</creator>
+        <duration>235000</duration>
+        <info>http://www.last.fm/music/Cher/_/The+Power</info>
+        <image>http://userserve-ak.last.fm/serve/126/8674593.jpg</image>
+      </track>
+      <track>
+        <title>Runaway</title>
+        <identifier>http://www.last.fm/music/Cher/_/Runaway</identifier>
+        <album>Believe</album>
+        <creator>Cher</creator>
+        <duration>285000</duration>
+        <info>http://www.last.fm/music/Cher/_/Runaway</info>
+        <image>http://userserve-ak.last.fm/serve/126/8674593.jpg</image>
+      </track>
+      <track>
+        <title>All or Nothing</title>
+        <identifier>http://www.last.fm/music/Cher/_/All+or+Nothing</identifier>
+        <album>Believe</album>
+        <creator>Cher</creator>
+        <duration>237000</duration>
+        <info>http://www.last.fm/music/Cher/_/All+or+Nothing</info>
+        <image>http://userserve-ak.last.fm/serve/126/8674593.jpg</image>
+      </track>
+      <track>
+        <title>Strong Enough</title>
+        <identifier>http://www.last.fm/music/Cher/_/Strong+Enough</identifier>
+        <album>Believe</album>
+        <creator>Cher</creator>
+        <duration>226000</duration>
+        <info>http://www.last.fm/music/Cher/_/Strong+Enough</info>
+        <image>http://userserve-ak.last.fm/serve/126/8674593.jpg</image>
+      </track>
+      <track>
+        <title>Dov'è l'amore</title>
+        <identifier>http://www.last.fm/music/Cher/_/Dov%27%C3%A8+l%27amore</identifier>
+        <album>Believe</album>
+        <creator>Cher</creator>
+        <duration>257000</duration>
+        <info>http://www.last.fm/music/Cher/_/Dov%27%C3%A8+l%27amore</info>
+        <image>http://userserve-ak.last.fm/serve/126/8674593.jpg</image>
+      </track>
+      <track>
+        <title>Takin' Back My Heart</title>
+        <identifier>http://www.last.fm/music/Cher/_/Takin%27+Back+My+Heart</identifier>
+        <album>Believe</album>
+        <creator>Cher</creator>
+        <duration>271000</duration>
+        <info>http://www.last.fm/music/Cher/_/Takin%27+Back+My+Heart</info>
+        <image>http://userserve-ak.last.fm/serve/126/8674593.jpg</image>
+      </track>
+      <track>
+        <title>Taxi Taxi</title>
+        <identifier>http://www.last.fm/music/Cher/_/Taxi+Taxi</identifier>
+        <album>Believe</album>
+        <creator>Cher</creator>
+        <duration>302000</duration>
+        <info>http://www.last.fm/music/Cher/_/Taxi+Taxi</info>
+        <image>http://userserve-ak.last.fm/serve/126/8674593.jpg</image>
+      </track>
+      <track>
+        <title>Love Is the Groove</title>
+        <identifier>http://www.last.fm/music/Cher/_/Love+Is+the+Groove</identifier>
+        <album>Believe</album>
+        <creator>Cher</creator>
+        <duration>270000</duration>
+        <info>http://www.last.fm/music/Cher/_/Love+Is+the+Groove</info>
+        <image>http://userserve-ak.last.fm/serve/126/8674593.jpg</image>
+      </track>
+      <track>
+        <title>We All Sleep Alone</title>
+        <identifier>http://www.last.fm/music/Cher/_/We+All+Sleep+Alone</identifier>
+        <album>Believe</album>
+        <creator>Cher</creator>
+        <duration>234000</duration>
+        <info>http://www.last.fm/music/Cher/_/We+All+Sleep+Alone</info>
+        <image>http://userserve-ak.last.fm/serve/126/8674593.jpg</image>
+      </track>
+    </trackList>
+  </playlist>
+</lfm>
